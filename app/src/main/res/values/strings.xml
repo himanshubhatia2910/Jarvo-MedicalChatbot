@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatBot</string>
+    <string name="skip"><u>Skip</u></string>
+    <string name="enter_a_message">Enter a Message....</string>
+</resources>
